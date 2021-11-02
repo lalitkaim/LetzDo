@@ -1,3 +1,7 @@
+# LetzDO
+
+It's a web based ToDo List application where you can list your things with specific Date mentioned. Feel free to visit it @ https://letz-do.web.ap
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
